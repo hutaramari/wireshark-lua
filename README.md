@@ -1,4 +1,4 @@
-# Desciption
+# Description
 This bea lua scipt is used for dissecting BEA public protocol in Wireshark.
 
 # Features
